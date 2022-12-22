@@ -33,10 +33,6 @@ test hip 7cls model:
 ```bash
 python test_7cls.py
 ```
-test onfh 3cls model:
-```bash
-python test_3cls.py
-```
 
 
 ## Citing this work
